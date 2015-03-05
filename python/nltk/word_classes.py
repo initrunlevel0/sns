@@ -49,12 +49,6 @@ print text.similar('woman')
 # Dari kata woman (Noun/Kata Benda) tadi, kita bisa mencari kata yang mirip penggunaannya dengan woman (N) ini.
 # Seperti pada hasil di atas.
 
-# Belajar kembali kelas kata
-
-# NOUNS: Refer ke orang, tempat, sesuatu, dll. Ditempatkan setelah penentu atau kata sifat
-# VERB: Refer to event atau action. Menyatakan hubungan antara dua frasa NOUN
-# ADJECTIVE: Describe verb
-# ADVERB: Modify verb (timing, manner, place)
 
 
 
